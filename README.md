@@ -4,7 +4,5 @@
 
 ➡️ 🐍 My prefered coding language is Python.
 
-➡️ 🌱 I’m currently learning Web structures, technologies and programmings languages but I still learn Python everyday.
-
-➡️ 📫 How to contact me nathanoel@protonmail.com 📧
+- Contact me : nathanoel@protonmail.com 📧
 
